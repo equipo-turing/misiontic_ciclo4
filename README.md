@@ -14,3 +14,8 @@ Paso 3: ejecutar el proyecto
 
 `yarn start`
 # frontend
+
+
+# Ejecutar comandos en heroku
+
+- heroku run ls
